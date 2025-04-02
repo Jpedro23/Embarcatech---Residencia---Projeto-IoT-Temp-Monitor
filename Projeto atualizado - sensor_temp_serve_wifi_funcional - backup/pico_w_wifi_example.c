@@ -6,8 +6,8 @@
 #include "hardware/i2c.h"
 
 // Definições para conexão Wi-Fi
-#define WIFI_SSID "073AFibra 2.4Ge5G" // Substitua pelo nome da sua rede Wi-Fi
-#define WIFI_PASS "dCz6pRQ5"          // Substitua pela senha da sua rede Wi-Fi
+#define WIFI_SSID "Name_SSID" // Substitua pelo nome da sua rede Wi-Fi
+#define WIFI_PASS "Password"          // Substitua pela senha da sua rede Wi-Fi
 
 // Definições do AHT10 e I2C0
 #define AHT10_ADDR 0x38  // Endereço I2C do AHT10
